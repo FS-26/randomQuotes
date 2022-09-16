@@ -1,0 +1,10 @@
+#quote{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    border-color: transparent;
+    box-shadow: 1px 1px 5px 1px;
+    padding: 30px;
+    box-sizing: border-box;
+}
